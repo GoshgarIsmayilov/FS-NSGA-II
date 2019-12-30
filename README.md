@@ -1,8 +1,7 @@
 # Bioinformatics-Project
 Feature (Gene) Selection Project for Bioinformatics
 
-* DLBCL Dataset (Shipp, et al., 2002):
-  77 Samples, 7070 Genes, 2 Classes
+* DLBCL Dataset (Shipp, et al., 2002)
 * Lung Cancer Dataset (Gordon, et al., 2002)
 * Prostate Cancer Dataset (Singh, et al., 2002)
 * Myeloma Cancer Dataset (Tian, et al., 2002)
@@ -12,9 +11,9 @@ Feature (Gene) Selection Project for Bioinformatics
 3. Type the name of the dataset you want to apply feature selection!
   3.1. You have 4 options: 'gordon' for lung cancer, 'shipp' for dlbcl, 'singh' for prostate, 'tian' for myeloma
   3.2. Note that the experimental results are based on dlbcl dataset.
-4. There are 5 different classifier and the best one for the given dataset is automatically selected!
-  4.1. SVM (Support Vector Machines)
-  4.2. Non-Linear SVM (Support Vector Machines)
+4. There are 6 different classifiers and the best one for the given dataset is automatically selected!
+  4.1. SVM (Support Vector Machine)
+  4.2. Non-Linear SVM (Support Vector Machine)
   4.3. K-NN (K-Nearest Neighbor)
   4.4. NN (Neural Network)
   4.5. D-Tree (Decision Tree)
