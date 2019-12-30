@@ -6,7 +6,8 @@ Feature (Gene) Selection Project for Bioinformatics
 * Prostate Cancer Dataset (Singh, et al., 2002)
 * Myeloma Cancer Dataset (Tian, et al., 2002)
 
-1. Import the libraries first!
+1. Import the libraries first! DLBCL dataset is available here, and other libraries can be accessed through this link: 
+   https://drive.google.com/open?id=1UmXzApJ2nGdpCh7-JenxpfCgMlP_RPbS
 2. Make sure that the datasets are in the correct directory!
 3. Type the name of the dataset you want to apply feature selection!
   3.1. You have 4 options: 'gordon' for lung cancer, 'shipp' for dlbcl, 'singh' for prostate, 'tian' for myeloma
